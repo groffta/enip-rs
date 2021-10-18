@@ -3,7 +3,9 @@ name = "enip-rs"
 description = "Rust implementation of the Ethernet/IP industrial control protocol"
 authors = ["Todd Groff"]
 repository = "https://github.com/groffta/enip-rs"
+readme = "README.md"
 license = "MIT"
+license-file = "LICENSE"
 version = "0.0.1"
 edition = "2018"
 
